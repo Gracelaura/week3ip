@@ -3,7 +3,7 @@
     padding: 0;
 }
 .formcontainer {
-    background-color: chartreuse;
+    background-color: yellow;
    border: 1px solid black; 
    width: 50%;
    text-align: center;
@@ -41,6 +41,7 @@ div input {
     padding: 10px;
     font-size: 18px;
     margin: 1%;
+    border-radius: 10px;
 }
 .dailyproduction {
     background-color: cornflowerblue;
@@ -58,6 +59,7 @@ div input {
     padding-bottom: 4px;
 }
 .reportscontainer {
+    background-color: yellow;
     width: 80%;
     margin-right: auto;
     margin-left: auto;
