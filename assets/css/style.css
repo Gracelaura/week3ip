@@ -34,7 +34,6 @@ div input {
 .formbuttons {
     display: flex;
     justify-content: left;
-
 }
 .formbuttons button {
     background-color: deeppink;
