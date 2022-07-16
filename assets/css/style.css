@@ -58,7 +58,6 @@ div input {
     padding-bottom: 4px;
 }
 .reportscontainer {
-    
     width: 80%;
     margin-right: auto;
     margin-left: auto;
@@ -77,3 +76,11 @@ div input {
     padding-top: 20px;
     padding-bottom: 20px;
 }
+.heading {
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 2px 1px 1px navajowhite;
+    text-decoration: underline;
+}
+
+
