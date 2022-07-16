@@ -3,14 +3,16 @@
     padding: 0;
 }
 .formcontainer {
+    background-color: chartreuse;
    border: 1px solid black; 
    width: 50%;
    text-align: center;
    margin: auto;
-   margin-top: 20vh;
+   margin-top: 8vh;
+   margin-bottom: 4vh;
 }
 .formcontainer h2 {
-    margin-top: 10vh;
+    margin-top: 5vh;
     font-size: 35px;
 }
 .quantityInput {
@@ -18,5 +20,41 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    height: 50vh;
+    height: 40vh;
+}
+div label {
+    margin-right: 2vh;
+    font-size: 20px;
+}
+div input {
+    padding: 10px;
+    font-size: 20px;
+    width: 40%;
+}
+.formbuttons {
+    display: flex;
+    justify-content: left;
+
+}
+.formbuttons button {
+    background-color: deeppink;
+    border: none;
+    padding: 10px;
+    font-size: 18px;
+    margin: 1%;
+}
+.dailyproduction {
+    background-color: cornflowerblue;
+    color: black;
+    border: 1px black solid;
+    height: 180px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 12px;
+    font-size: 20px;
+}
+.dailyproduction p {
+    padding-top: 4px;
+    padding-bottom: 4px;
 }
