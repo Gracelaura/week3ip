@@ -58,6 +58,7 @@ div input {
     padding-bottom: 4px;
 }
 .reportscontainer {
+    
     width: 80%;
     margin-right: auto;
     margin-left: auto;
@@ -66,8 +67,13 @@ div input {
     justify-content: space-around;
     margin-bottom: 20px;
     border: 1px solid black;
-    height: 600px;
+    height: 800px;
 }
 .reportscontainer h2 {
     color: darkolivegreen;
+    font-size: 30px;
+}
+.reportscontainer p {
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
