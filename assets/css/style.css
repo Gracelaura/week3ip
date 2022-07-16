@@ -57,3 +57,14 @@ div input {
     padding-top: 4px;
     padding-bottom: 4px;
 }
+.reportscontainer {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    border: 1px solid black;
+    height: 500px;
+}
