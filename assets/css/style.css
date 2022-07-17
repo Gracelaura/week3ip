@@ -4,7 +4,7 @@
 }
 .formcontainer {
     background-color: yellow;
-   border: 1px solid black; 
+   border: 1px solid white; 
    width: 50%;
    text-align: center;
    margin: auto;
@@ -46,7 +46,7 @@ div input {
 .dailyproduction {
     background-color: cornflowerblue;
     color: black;
-    border: 1px blac solid;
+    border: 1px white solid;
     height: 180px;
     width: 70%;
     margin-left: auto;
