@@ -46,7 +46,7 @@ div input {
 .dailyproduction {
     background-color: cornflowerblue;
     color: black;
-    border: 1px black solid;
+    border: 1px blac solid;
     height: 180px;
     width: 70%;
     margin-left: auto;
@@ -67,7 +67,7 @@ div input {
     display: flex;
     justify-content: space-around;
     margin-bottom: 20px;
-    border: 1px solid black;
+    border: 1px solid white;
     height: 900px;
 }
 .reportscontainer h2 {
