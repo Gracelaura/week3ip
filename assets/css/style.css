@@ -2,6 +2,52 @@
     margin: 0;
     padding: 0;
 }
+.menubar {
+    background-color: black;
+    color: white;
+    width: 100%;
+    display: flex;
+    padding: 10px 15px;
+}
+.logo {
+    width: 20%;
+    margin-top:auto;
+    margin-bottom: auto;
+}
+.logo p a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+}
+nav {
+    width: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+nav ul {
+    list-style: none;
+}
+nav ul li {
+   float: left;
+    padding: 10px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+#login {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 30px;
+}
+#getstarted {
+   background-color: #ed661f; 
+   color: white;
+   border: none;
+   padding: 15px;
+}
 .formcontainer {
     background-color: yellow;
    border: 1px solid white; 
@@ -59,7 +105,7 @@ div input {
     padding-bottom: 4px;
 }
 .reportscontainer {
-    background-color:wheat;
+    
     width: 80%;
     margin-right: auto;
     margin-left: auto;
