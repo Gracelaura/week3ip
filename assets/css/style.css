@@ -69,6 +69,7 @@ div input {
     margin-bottom: 20px;
     border: 1px solid black;
     height: 900px;
+    box-shadow: 1px 1px 1px white;
 }
 .reportscontainer h2 {
     color: darkgreen;
